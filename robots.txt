@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yusufcnr.github.io/mehmet-usta/sitemap.xml
